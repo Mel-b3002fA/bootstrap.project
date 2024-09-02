@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    font-family: Montserrat;
+}
+.hero{
+    background-image: url(./img/Rectangle\ 48.png);
+}
+
+.download{
+    background-image: url(./img/Rectangle\ 47.png);
+}
+
